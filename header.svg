@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 220" width="1200" height="220">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#0f2027"/>
+      <stop offset="50%" stop-color="#203a43"/>
+      <stop offset="100%" stop-color="#2c5364"/>
+    </linearGradient>
+    <clipPath id="c">
+      <path d="M0,0 H1200 V170 C1050,215 900,140 750,175 C600,210 450,140 300,172 C180,198 80,160 0,180 Z"/>
+    </clipPath>
+    <style>
+      .t{font-family:'Segoe UI',-apple-system,BlinkMacSystemFont,Helvetica,Arial,sans-serif;fill:#fff;text-anchor:middle}
+      .name{font-size:58px;font-weight:700;animation:fade 1.2s ease-out .2s backwards}
+      .sub{font-size:22px;font-weight:500;fill:#a7f3d0;animation:fade 1.2s ease-out .7s backwards}
+      .wave{animation:drift 7s ease-in-out infinite alternate}
+      @keyframes fade{from{opacity:0}to{opacity:1}}
+      @keyframes drift{from{transform:translateX(0)}to{transform:translateX(-80px)}}
+    </style>
+  </defs>
+  <g clip-path="url(#c)">
+    <rect width="1200" height="220" fill="url(#g)"/>
+    <path class="wave" fill="#4ade80" fill-opacity="0.13" d="M0,150 C150,115 300,175 450,145 C600,115 750,175 900,145 C1050,115 1150,170 1300,140 V220 H0 Z"/>
+  </g>
+  <text class="t name" x="600" y="92">AbdulAhad Azam</text>
+  <text class="t sub" x="600" y="132">Software Engineer • Backend &amp; Generative AI</text>
+</svg>
