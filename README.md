@@ -1,9 +1,9 @@
 <!-- Header banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=AbdulAhad%20Azam&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Software%20Engineer%20%E2%80%A2%20Backend%20%26%20Generative%20AI&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+<img src="./header.svg" width="100%" alt="AbdulAhad Azam — Software Engineer"/>
 
 <p align="center">
   <a href="https://github.com/Abdulahadazam">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=4ADE80&center=true&vCenter=true&width=650&lines=Associate+Software+Engineer+%40+Amrood+Labs;Building+RAG+systems+over+500+GB+of+documents;FastAPI+%7C+Django+%7C+Node.js+%7C+Next.js;AI+automation+with+OCR+%2B+Amazon+Bedrock" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=4ADE80&center=true&vCenter=true&width=650&lines=Software+Engineer+1+%40+Amrood+Labs;Building+RAG+systems+over+500+GB+of+documents;FastAPI+%7C+Django+%7C+Node.js+%7C+Next.js;AI+automation+with+OCR+%2B+Amazon+Bedrock" alt="Typing SVG" />
   </a>
 </p>
 
@@ -19,10 +19,11 @@
 
 I'm a **Software Engineer** from Lahore, Pakistan 🇵🇰 and a **Computer Science graduate of FAST-NUCES** (2021–2025). I build scalable backends and practical AI systems — from RAG-powered search engines to OCR-driven finance automation.
 
-- 🔭 Currently an **Associate Software Engineer at [Amrood Labs](#-experience)**
+- 🔭 Currently a **Software Engineer 1 at [Amrood Labs](#-experience)**
 - 🧠 Working on **Generative AI, RAG pipelines, and OCR automation** on AWS
 - ⚙️ Most at home with **Python (FastAPI, Django)**, **Node.js** and **Next.js**
 - 🎓 Final-year project: a **real-time profanity detection & replacement system** using transformers
+- 💼 Connect with me on **[LinkedIn](https://www.linkedin.com/in/abdulahad-azam/)**
 - 📫 Reach me at **Abdulahad.azam90@gmail.com**
 
 ---
@@ -74,8 +75,8 @@ I'm a **Software Engineer** from Lahore, Pakistan 🇵🇰 and a **Computer Scie
 
 | Role | Company | Period |
 |------|---------|--------|
-| 🟢 **Associate Software Engineer** | Amrood Labs | Sep 2025 – Present |
-| Backend Developer Intern | RemoteDev | Jul 2025 – Aug 2025 |
+| 🟢 **Software Engineer 1** | Amrood Labs | Sep 2025 – Present |
+| Backend Developer | RemoteDev | Jul 2025 – Aug 2025 |
 | Full Stack Developer | Oxibit Technologies | Nov 2024 – Mar 2025 |
 | Software Engineer Intern | NETSOL Technologies | Jun 2024 – Aug 2024 |
 
@@ -169,4 +170,4 @@ I'm a **Software Engineer** from Lahore, Pakistan 🇵🇰 and a **Computer Scie
   <i>Always open to interesting backend & AI projects — feel free to reach out!</i>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%"/>
+<img src="./footer.svg" width="100%"/>
